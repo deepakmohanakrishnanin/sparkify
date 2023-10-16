@@ -1,0 +1,5 @@
+addSbtPlugin("org.jetbrains.scala" % "sbt-ide-settings" % "1.1.1")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.15.0")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "2.0.8")
+addSbtPlugin("com.github.sbt" % "sbt-dynver" % "5.0.1")
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.4.0")
